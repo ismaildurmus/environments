@@ -12,6 +12,6 @@ mod 'extendingpuppet-testrepo',
 
 mod 'puppetlabs-apache', '12.1.0'
 mod 'puppetlabs-mysql', '15.0.0'
+mod 'puppet-archive', '7.1.0'
 mod 'puppet-php', '10.2.0'
 mod 'puppetlabs-concat'
-mod 'puppet-archive', '7.1.0'
