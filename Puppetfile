@@ -11,5 +11,5 @@ mod 'extendingpuppet-testrepo',
   :branch => 'main'
 mod 'apache',
   :git => 'https://github.com/ismaildurmus/apache.git',
-  :branch 00> 'main'
+  :branch => 'main'
 
